@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,R as e,t as o}from"./framework-96b046e1.js";const i={},c=e("h3",{id:"solidity",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#solidity","aria-hidden":"true"},"#"),o(" solidity")],-1),d=[c];function n(r,_){return s(),a("div",null,d)}const h=t(i,[["render",n],["__file","index.html.vue"]]);export{h as default};

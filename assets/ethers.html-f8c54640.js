@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6d7288fe","path":"/web3/ethers/ethers.html","title":"Ethers.js","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"等待更新","slug":"等待更新","link":"#等待更新","children":[]}],"git":{},"filePathRelative":"web3/ethers/ethers.md"}');export{e as data};

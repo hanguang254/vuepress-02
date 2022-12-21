@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-157f4d57","path":"/web3/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"web3 开发","slug":"web3-开发","link":"#web3-开发","children":[]}],"git":{},"filePathRelative":"web3/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9ee9fedc","path":"/contract/solidity.html","title":"Solidity简述","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Solidity具有两个特点","slug":"solidity具有两个特点","link":"#solidity具有两个特点","children":[]}],"git":{},"filePathRelative":"contract/solidity.md"}');export{t as data};
